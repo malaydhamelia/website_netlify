@@ -4,7 +4,7 @@
   "siteicon": "/images/uploads/index.png",
   "showmenu": true,
   "emailsignup": false,
-  "altlayout": true,
+  "altlayout": false,
   "menu": [
     {
       "name": "twitter",
