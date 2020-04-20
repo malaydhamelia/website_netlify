@@ -62,8 +62,8 @@
             <div class="item">
                 <div class="footer__heading xs-mb2">Deploy</div>
 
-                <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
-            <img style="height:29px;width:auto;" src="~/assets/deploy.svg" title="Deploy to Netlify">
+                <!--<a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
+            <img style="height:29px;width:auto;" src="~/assets/deploy.svg" title="Deploy to Netlify">-->
           </a>
 
             </div>
